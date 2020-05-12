@@ -31,9 +31,9 @@ Material:
     - _CullDepth: 0.054
     - _Depth: 0.3
     - _DrawDepth: 0.128
-    - _MaskAlpha: 0.459
+    - _MaskAlpha: 0.525
     - _RotateSpeed: 6.24
-    - _Size: 1.1614928
+    - _Size: 0.16044372
     m_Colors:
     - _ColorDELETE: {r: 0.9150943, g: 0.15970986, b: 0.15970986, a: 1}
-    - _ScreenPosition: {r: 0.53402865, g: 0.3623568, b: 6.2637696, a: 0}
+    - _ScreenPosition: {r: 0.5700703, g: 0.57751036, b: 8.209883, a: 0}
